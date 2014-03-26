@@ -1,3 +1,6 @@
 you are ok
 I am branch 1
 my first text ok
+
+
+my bug fix
