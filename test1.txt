@@ -1,6 +1,7 @@
 you are ok
 I am branch 1
-my first text ok
+my and second text ok
+
 
 
 my bug fix
