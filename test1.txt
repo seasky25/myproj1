@@ -6,3 +6,7 @@ my and second text ok
 
 ok, lets do it
 my bug fix
+my first text ok
+prefeature
+
+i am branch 2
