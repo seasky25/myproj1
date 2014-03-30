@@ -4,9 +4,9 @@ my and second text ok
 
  new feature1
 
-ok, lets do it
+ok, insert something lets do it
 my bug fix
-my first text ok
+my first insert a second thing text ok
 prefeature
 
 i am branch 2
