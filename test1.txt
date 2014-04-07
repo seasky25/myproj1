@@ -1,6 +1,6 @@
 you are ok
 I am branch 1
-my and second text ok
+my and second insert text ok
 
  new feature1
 
@@ -8,4 +8,7 @@ my and second text ok
 i am branch 2
 
 
-master
+maste
+
+
+my additionr
