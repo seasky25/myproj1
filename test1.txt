@@ -4,10 +4,6 @@ my and second text ok
 
  new feature1
 
-ok, insert something lets do it
-my bug fix
-my first insert a second thing text ok
-prefeature
 
 i am branch 2
 
