@@ -4,9 +4,5 @@ my and second text ok
 
  new feature1
 
-ok, lets do it ok agian
-my bug fix
-my first text ok let ok again
-prefeature
 
 i am branch 2
